@@ -1,0 +1,16 @@
+## OS X GENERATED FILES
+
+.DS_Store
+Icon
+Icon?
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+
+## CLOUD9 GENERATED FILES
+
+.c9settings.xml
+
+## SUBLIME TEXT
+*.sublime-workspace

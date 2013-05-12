@@ -1,0 +1,3 @@
+[submodule "pack_sh"]
+	path = pack_sh
+	url = git@github.com:curtisblackwell/pack_sh.git
