@@ -5,7 +5,7 @@ Geo' Fo' is a Statamic plugin that strips HTML tags while preserving those you d
 ## The Tag
 Wrap the content to be parsed in `{{ geofo }}` tags.
 
-    {{ geofo }}{{ content }} {{ /geofo }}
+    {{ geofo }}{{ content }}{{ /geofo }}
 
 ## Preserve Tags
 
