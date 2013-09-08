@@ -14,7 +14,7 @@ class Plugin_Geofo extends Plugin
 
   public function index()
   {
-    $preserve = $this->fetch_param('preserve');
+    $preserve = $this->fetch('preserve');
 
     return strip_tags($this->content, $preserve);
   }
